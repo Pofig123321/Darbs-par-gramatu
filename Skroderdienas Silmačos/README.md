@@ -119,7 +119,7 @@ lugas varoņiem.
 ⸻
 Skroderdienas Silmačos
 
-## 📖 Projekta apraksts
+##  Projekta apraksts
 
 Šis projekts ir moderna un interaktīva mājaslapa par Rūdolfa Blaumaņa lugu **„Skroderdienas Silmačos”** — vienu no slavenākajiem un nozīmīgākajiem latviešu dramaturģijas darbiem. Vietne tika izveidota kā skolas projekts, taču tās dizains un funkcionalitāte tika veidota daudz modernākā stilā nekā tradicionālām prezentācijām vai parastām informatīvām lapām. Projekta mērķis bija apvienot literatūras analīzi ar mūsdienīgu dizainu, animācijām un interaktīviem elementiem, lai mājaslapa izskatītos kā īsts teātra vai filmu projekts.
 
@@ -127,21 +127,21 @@ Veidojot šo vietni, galvenā uzmanība tika pievērsta ne tikai informācijai, 
 
 ---
 
-# ✨ Vietnes galvenās sadaļas
+#  Vietnes galvenās sadaļas
 
-## 👨‍💼 Autors — Rūdolfs Blaumanis
+##  Autors — Rūdolfs Blaumanis
 
 Šajā sadaļā ir apkopota informācija par Rūdolfu Blaumani — vienu no ievērojamākajiem latviešu rakstniekiem un dramaturgiem. Tiek aprakstīta viņa biogrāfija, nozīmīgākie darbi, kā arī ekranizācijas, kas balstītas uz viņa literārajiem darbiem. Šī sadaļa palīdz labāk izprast autora personību un viņa ieguldījumu latviešu kultūrā.
 
 ---
 
-## 🌾 Vide
+##  Vide
 
 Sadaļā par vidi tiek aprakstīta lugas darbības norises vieta — lauku mājas “Silmači” 19. gadsimtā. Tiek raksturota Jāņu laika atmosfēra, dabas skaistums un cilvēku ikdiena. Šī sadaļa palīdz saprast, kādā vidē dzīvo lugas varoņi un kā tradīcijas ietekmē viņu dzīvi.
 
 ---
 
-## 🎭 Varoņi
+##  Varoņi
 
 Viena no svarīgākajām vietnes daļām ir galveno varoņu raksturojums. Šeit tiek aprakstīti:
 -as varoņi un k— spēcīga, lepna un saimnieciska sieviete;
@@ -154,7 +154,7 @@ Katram tēlam ir pievienoti attēli un vizuāls noformējums, kas palīdz padar�
 
 ---
 
-## 💡 Atziņas
+##  Atziņas
 
 Šajā sadaļā tiek analizētas galvenās lugas idejas un vērtības. Tiek apskatītas tādas tēmas kā:
 - mīlestības nozīme;
@@ -165,7 +165,7 @@ Atziņu sadaļa palīdz dziļāk saprast lugas galveno domu un autora vēstījum
 
 ---
 
-## 🎬 Kultūras fakti
+## Kultūras fakti
 
 Šeit tiek aprakstīta lugas nozīme latviešu kultūrā. Tiek pieminētas teātra izrādes, televīzijas ekranizācijas un lugas popularitāte Latvijā. “Skroderdienas Silmačos” jau daudzus gadus ir neatņemama Jāņu tradīciju sastāvdaļa, un Latvijas Nacionālais teātris šo izrādi regulāri iestudē pirms vasaras saulgriežiem.
 
@@ -173,7 +173,7 @@ Atziņu sadaļa palīdz dziļāk saprast lugas galveno domu un autora vēstījum
 
 ---
 
-# 🎨 Dizains un vizuālais noformējums
+#  Dizains un vizuālais noformējums
 
 Projektā tika izmantots moderns tumšais dizains ar teātra atmosfēru. Galvenais fons aizņem visu ekrānu un rada dziļuma efektu. Virs fona novietoti caurspīdīgi elementi, kas uzlabo teksta salasāmību un vienlaikus saglabā elegantu izskatu.
 
@@ -192,21 +192,21 @@ Attēli tika noformēti kā kartītes ar noapaļotiem stūriem un animācijām, 
 
 ---
 
-# 🛠️ Izmantotās tehnoloģijas
+#  Izmantotās tehnoloģijas
 
 Projektā tika izmantotas šādas tehnoloģijas:
 
 -ietnes daļā— mājaslapas struktūrai;
 -s
 
-## 📖 P— dizainam, animācijām un adaptīvam izkārtojumam;
+##  P— dizainam, animācijām un adaptīvam izkārtojumam;
 -s
 
 Šis projekts — interaktivitātei un sadaļu pārslēgšanai.
 
 ---
 
-# 📂 Projekta failu struktūra
+#  Projekta failu struktūra
 
 ```bash
 project-folder/
@@ -223,5 +223,25 @@ project-folder/
 └── theatre.mp4
  
  
-⭐ Projekta mērķis
+ Projekta mērķis
 Izveidot modernu un vizuāli pieid="q8xbji"
+
+ Informācijas avoti
+Projektā izmantotā informācija tika iegūta no:
+Wikipedia;
+Literatura.lv;
+materiāliem par Rūdolfu Blaumani;
+Latvijas Nacionālā teātra resursiem.
+ 
+⸻
+ 
+ Projekta mērķis
+Šī projekta galvenais mērķis bija izveidot ne tikai informatīvu vietni par literāro darbu, bet arī modernu un vizuāli pievilcīgu mājaslapu, kas spēj ieinteresēt lietotāju un padarīt literatūras tēmu daudz aizraujošāku.
+Projekts apvieno:
+literatūru,
+kultūru,
+dizainu,
+animācijas,
+interaktivitāti,
+multimediju elementus.
+Rezultātā tika izveidota moderna mājaslapa ar teātra atmosfēru, kas izceļas ar savu vizuālo noformējumu un funkcionalitāti.
